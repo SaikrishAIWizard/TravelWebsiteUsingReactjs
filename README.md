@@ -1,6 +1,6 @@
 # Travel Website
 
-![Travel Website Banner](banner.png)
+![Travel Website Banner](https://e7.pngegg.com/pngimages/384/783/png-clipart-travel-travel-tourism-travel.png)
 
 ## Introduction
 Welcome to our Travel Website project! This website aims to provide users with a seamless experience for planning their next travel adventure. Whether it's discovering new destinations, booking accommodations, or finding exciting activities, our platform has you covered.
@@ -18,4 +18,10 @@ Welcome to our Travel Website project! This website aims to provide users with a
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/travel-website.git
+   git clone https://github.com/SaikrishAIWizard/TravelWebsiteUsingReactjs.git
+
+Thank you for exploring our Travel Website project! We hope it inspires your next adventure.
+
+
+This README provides comprehensive information about the project, its features, technologies used, installation instructions, contribution guidelines tailored for a travel website built with React.js, JavaScript, HTML, and Tailwind CSS.
+
