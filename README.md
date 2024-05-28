@@ -1,6 +1,6 @@
 # Travel Website
 
-![Travel Website Banner](https://e7.pngegg.com/pngimages/1004/326/png-clipart-travel-travel-globe-world.png)
+![Travel Website Banner](https://www.pngall.com/wp-content/uploads/8/Travel-PNG-Picture.png)
 
 ## Introduction
 Welcome to our Travel Website project! This website aims to provide users with a seamless experience for planning their next travel adventure. Whether it's discovering new destinations, booking accommodations, or finding exciting activities, our platform has you covered.
